@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" href="https://glitch.com/favicon.ico" />
+
+    <!--
+      This is the page head - it contains info the browser uses
+      Like the title, which appears on the browser tab but not inside the page
+      Further down you'll see the content that displays in the page
+    -->
+    <title>TNFD Tools</title>
+
+    <!-- The website stylesheet -->
+    <link rel="stylesheet" href="/style.css" />
+
+    <!-- The website JavaScript file -->
+    <script src="/script.js" defer></script>
+    
+    <!-- Import Google Fonts     -->
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&family=Domine&family=Gelasio&family=Noto+Sans&display=swap" rel="stylesheet">
+</head>
+<body>
+
+  
+  
+<div class="layout">
+  <!-- Sidebar -->
+<aside class="sidebar">
+  <h2>Use the filter below to find tools you like:</h2>
+
+  <!-- Type of Tool Filter -->
+  <div class="tag-filter" data-filter-group="type">
+    <strong>Type of Tool:</strong>
+    <button class="tag-btn all active" data-tag="all">All</button>   
+    <button class="tag-btn measuring" data-tag="measuring">Measuring</button>
+    <button class="tag-btn cataloging" data-tag="cataloging">Cataloging</button>
+    <button class="tag-btn assessing" data-tag="assessing">Assessing</button>
+    <button class="tag-btn monetizing" data-tag="monetizing">Monetizing</button>
+  </div>
+  
+  <button id="view-info-btn" class="info-btn">View Project Info</button>
+
+  <!-- Language Filter -->
+<!--   <div class="tag-filter" data-filter-group="language">
+    <strong>Language:</strong>
+    <button class="tag-btn active" data-tag="all">All</button>
+    <button class="tag-btn" data-tag="english">English</button>
+    <button class="tag-btn" data-tag="french">French</button>
+    <button class="tag-btn" data-tag="spanish">Spanish</button>
+  </div> -->
+</aside>
+
+  <!-- Main content -->
+  <main class="panel intro">
+    <h1>Biodiversity is ...</h1>
+    <p>Click on a phrase to learn more about the tool.</p>
+
+    <!-- Tool list -->
+    <ul class="book-list">
+    </ul>
+  </main>
+</div>
+
+  
+  <!-- Popup Modal -->
+  <div id="modal" class="modal hidden">
+    <div class="modal-content">
+      <span class="close-btn">&times;</span>
+      <h2 id="modal-title">Book Title</h2>
+      <p><br> </p>
+      <p id="modal-description">Book description goes here.</p>
+      <p><br> </p>
+      <a id="visit-tool-btn" href="#" target="_blank" rel="noopener noreferrer" class="visit-btn hidden">Visit Tool</a>
+    </div>
+  </div>
+  
+  <!-- Intro Modal (appears when the page first loads) -->
+<div id="intro-modal" class="modal">
+  <div class="modal-content intro-modal">
+    <h2>When Biodiversity Becomes Digital</h2>
+    <p><br> </p>
+    <p>This project explores how the meaning of biodiversity can change depending on the
+        digital tools that are used to understand environmental data. Each phrase is a short
+        description of a different tool. These one-sentence summaries emerged from qualitative research into the 
+        <a href="https://tnfd.global/assessment-guidance/tools-catalogue/" target="_blank" rel="noopener noreferrer">TNFD Tools Catalogue</a>.
+        The digital tools can be filtered through <strong>4 categories:</strong></p>
+<!--     <p><br> </p> -->
+<!--     <p>The digital tools can be filtered through <strong>4 categories:</strong></p> -->
+    <p><br> </p>
+    <p><strong><span class="highlight-measuring">Measuring</span></strong> - detection tools to make biodiversity observations (e.g. satellite imagery, sensors, eDNA)</p>
+    <p><strong><span class="highlight-cataloging">Cataloging</span></strong> - databases that archive and store biodiversity information (e.g. global indices, species lists, geospatial registers)</p>
+    <p><strong><span class="highlight-assessing">Assessing</span></strong> - interpreting data to generate biodiversity insights (e.g. analytical software, data modeling, risk assessments)</p>
+    <p><strong><span class="highlight-monetizing">Monetizing</span></strong> - assigning financial structures to biodiversity (e.g. funding, trade, offsetting, investment strategies)</p>
+<!--     <p><br> </p> -->
+    <button id="start-exploring" class="start-btn">Start Exploring</button>
+    <p><br> </p>
+    <p><br> </p>
+<!--     <p><strong>Credits</strong></p> -->
+    <p>Created at the MIT Climate and Sustainability Consortium by Yildiz Derinkok, with mentorship from Dr. Michelle Westerlaken.</p>
+    <p><br> </p>
+    <p><em><small>This website is an educational project that provides one-sentence summaries of tools listed in the
+      <a href="https://tnfd.global/assessment-guidance/tools-catalogue/" target="_blank" rel="noopener noreferrer">TNFD Tools
+      Catalogue</a>. These summaries are interpreted based on publicly available information, primarily from the tools'
+      websites. While we aim for accuracy, the descriptions may not capture every nuance or feature and should not be
+      considered official representations. Each summary includes a link to the original source for reference.</small></em></p>
+    <img src="https://cdn.glitch.global/8385526e-04b9-43b1-be59-4c3d96eac274/MCSC%20logo.png?v=1746463902225" alt="MCSC" class="mcsc-image">
+<!--     <button id="start-exploring" class="start-btn">Start Exploring</button> -->
+  </div>
+</div>
+
+  <script src="script.js"></script>
+</body>
+</html>

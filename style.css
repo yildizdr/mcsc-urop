@@ -1,0 +1,332 @@
+/* Reset default browser styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; /* Includes padding/border inside width/height */
+}
+
+/* Global styles for the page */
+html,
+body {
+  font-family: "Georgia", serif; /* Sets a serif font */
+  background: white;
+  color: black;
+  line-height: 1.6;
+  scroll-behavior: smooth; /* Smooth scrolling when using anchor links */
+}
+
+/* Color variables */
+:root {
+  --color-monetizing: #f05675;
+  --color-cataloging: #8de2ce;
+  --color-assessing: #ffd95c;
+  --color-measuring: #ba97c4;
+  --color-all: black;
+}
+/* light yellow:fff3cd  */
+/* light green:d4f0c0 */
+/* light pink:ffd1ec, 98BDAD */
+/* light blue: cce5ff */
+
+/* Purple:#C4B4CF, blue: #AFC8D4, pink: #FDD5C4, yellow: #FDD087  */
+
+/* Reusable panel layout (for full-screen sections) */
+.panel {
+  width: 100vw; /* Full width of the viewport */
+  min-height: 100vh; /* At least the full height of the viewport */
+  padding: 4rem 2rem; /* Spacing inside the panel */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+
+.panel.intro p {
+  font-style: italic; /* This will make the subheading italic */
+}
+
+/* Main title styles */
+h1 {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+/* Book list wrapper (no bullet points) */
+.book-list {
+  list-style: none;
+  padding: 0;
+  margin-top: 2rem;
+}
+
+.book-list li {
+  margin-bottom: 1.2rem; /* Spacing between phrases */
+}
+
+/* Intro Modal */
+.start-btn {
+  margin-top: 2rem;
+  padding: 0.75rem 1.5rem;
+  font-size: 1.2rem;
+  background-color: black;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.start-btn:hover {
+  background-color: #444444;
+}
+
+/* Sidebar button for intro modal */
+.info-btn {
+  margin-top: auto;
+  padding: 0.75rem 1rem;
+  font-size: 1rem;
+  background-color: #f0f0f0;
+  border: 1px solid #cccccc;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.info-btn:hover {
+  background-color: #dddddd;
+}
+
+/*********** Book button ************/
+.book-btn {
+  background: none;
+  border: none;
+  color: #555555;
+  font-size: 1.25rem;
+  cursor: pointer;
+  text-decoration: none;
+  margin: 1rem 0;
+}
+
+/* Hover effect for book buttons */
+.book-btn:hover {
+  color: #222222;
+}
+
+.visit-btn {
+  font-family: "Arial", serif;
+  /*   font-size: 1.2rem; */
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 0.5rem 1rem;
+  background-color: #007acc;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  text-align: center;
+}
+
+/* Highlighting the key words */
+.highlight-monetizing {
+  background-color: var(--color-monetizing);
+  padding: 0 2px;
+  border-radius: 3px;
+}
+
+.highlight-cataloging {
+  background-color: var(--color-cataloging);
+  padding: 0 2px;
+  border-radius: 3px;
+}
+
+.highlight-assessing {
+  background-color: var(--color-assessing);
+}
+
+.highlight-measuring {
+  background-color: var(--color-measuring);
+}
+
+/************* MODAL STYLES ***************/
+
+/* The modal overlay that covers the entire screen */
+.modal {
+  position: fixed; /* Stays in place even when scrolling */
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.6); /* semi-transparent dark overlay */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000; /* Puts it above other elements */
+}
+
+/* Hide the modal */
+.modal.hidden {
+  display: none;
+}
+
+/* The content box inside the modal */
+.modal-content {
+  background-color: white;
+  padding: 1.5rem;
+  max-width: 750px;
+  width: 90%;
+  border-radius: 8px; /* Rounded corners */
+  text-align: left;
+  position: relative; /* So close button can be positioned inside */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.modal-content.intro-modal {
+  max-width: 950px;
+}
+
+#intro-modal .modal-content a {
+  color: #49869a; /* blue */
+  text-decoration: underline;
+}
+#intro-modal .modal-content a:hover {
+  color: #24414b;
+}
+
+/* Close button "X" in the modal */
+.close-btn {
+  position: absolute;
+  top: 0.5rem;
+  right: 1rem;
+  font-size: 2rem;
+  color: #888888;
+  cursor: pointer;
+}
+
+/* Close button hover effect */
+.close-btn:hover {
+  color: black;
+}
+
+/******** Tag filter styles *********/
+/* Container for tag filter buttons */
+.tag-filter {
+  margin: 1.5rem auto;
+  display: flex;
+  flex-wrap: wrap; /* Allow buttons to wrap to next line */
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem; /* Space between buttons */
+}
+
+/* Bold label inside tag-filter (if used, e.g., <strong>Genre:</strong>) */
+.tag-filter strong {
+  margin-right: 0.5rem;
+}
+
+/* Style for each filter button */
+.tag-btn {
+  padding: 0.5rem 1rem;
+  border: 1px solid #444444;
+  background-color: white;
+  cursor: pointer;
+  font-size: 1rem;
+  border-radius: 20px; /* Pill-shaped buttons */
+  transition: all 0.2s ease; /* Smooth transition for hover effect */
+}
+
+/* Hover and active states for tag buttons */
+/*
+.tag-btn:hover,
+.tag-btn.active {
+  background-color: black;
+  color: white;
+  border-color: black;
+}
+*/
+
+/* Colored hover and active states for each type */
+.tag-btn.all:hover,
+.tag-btn.all.active {
+  background-color: var(--color-all);
+  color: white;
+  border-color: var(--color-all);
+}
+
+.tag-btn.monetizing:hover,
+.tag-btn.monetizing.active {
+  background-color: var(--color-monetizing);
+  color: black;
+  border-color: var(--color-monetizing);
+}
+
+.tag-btn.cataloging:hover,
+.tag-btn.cataloging.active {
+  background-color: var(--color-cataloging);
+  color: black;
+  border-color: var(--color-cataloging);
+}
+
+.tag-btn.assessing:hover,
+.tag-btn.assessing.active {
+  background-color: var(--color-assessing);
+  color: black;
+  border-color: var(--color-assessing);
+}
+
+.tag-btn.measuring:hover,
+.tag-btn.measuring.active {
+  background-color: var(--color-measuring);
+  color: black;
+  border-color: var(--color-measuring);
+}
+
+.hidden {
+  display: none !important;
+}
+
+.layout {
+  display: flex;
+  min-height: 100vh;
+}
+
+/* Sidebar on the left */
+.sidebar {
+  position: fixed; /* This makes it stay in place */
+  top: 0;
+  left: 0;
+  width: 200px;
+  height: 100vh; /* Full height of viewport */
+  padding: 2rem 1rem;
+  background-color: #f8f8f8;
+  border-right: 1px solid #cccccc;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  overflow-y: auto; /* Scroll sidebar if it gets too tall */
+}
+
+.sidebar h2 {
+  font-size: 0.85rem;
+  margin-top: 1rem; /* Spacing above the header */
+  margin-bottom: -1rem;
+  color: #333333;
+  font-weight: normal; /* This removes the bold */
+}
+
+/* Main content fills rest of space */
+.panel.intro {
+  margin-left: 200px; /* Leave space for sidebar */
+  padding: 4rem 2rem;
+  flex: 1;
+}
+
+.mcsc-image {
+  width: 120px; /* Set desired width */
+  height: auto; /* Maintain aspect ratio */
+  display: block; /* Ensure it behaves like a block element */
+  margin: 0 auto; /* center the image */
+  margin-top: 1rem;
+  border-radius: 8px;
+}
