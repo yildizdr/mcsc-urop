@@ -1,0 +1,402 @@
+[
+  {
+    "name": "AgCarE",
+    "description": "AgCarE is a whole systems agricultural property auditing tool for sustainable production, carbon and biodiversity assets.",
+    "phrase": "funding opportunities for land owners",
+    "highlighted_phrase": "<span class=\"highlight-monetizing\">funding</span> opportunities for <span class=\"highlight-monetizing\">land owners</span>",
+    "type": "monetizing",
+    "link": "https://www.agcare.org.au/"
+  },
+  {
+    "name": "AgriSound",
+    "description": "A vertical AI company using smart listening technologies and proprietary AI algorithms for precision pollination to improve crop yields and habitat monitoring to enhance biodiversity, on a global scale.",
+    "phrase": "sensors to measure pollinators to increase crop yield",
+    "highlighted_phrase": "sensors to measure <span class=\"highlight-measuring\">pollinators</span> to increase <span class=\"highlight-measuring\">crop yield</span>",
+    "type": "measuring",
+    "link": "https://agrisound.io/"
+  },
+  {
+    "name": "Natour Impact",
+    "description": "NATOUR IMPACT is an online evaluation tool created by ANIMONDIAL to help travel & tourism businesses regularly assess, monitor and disclose their nature-related risks and impacts, identify actions to reduce them, while also recommending opportunities to build back nature. \n\nNATOUR IMPACT is specifically tailored to the operational realities of the travel & tourism sector. It takes you through a series of questions, based on the latest scientific and regulatory landscape, to establish how your business is impacting nature. Our expert team will then provide a detailed report outlining your business’ performance, highlighting your nature-related risks and priority actions, and guiding you on their implementation throughout your operations.",
+    "phrase": "an online evaluation tool for tourism sector impacts",
+    "highlighted_phrase": "an <span class=\"highlight-assessing\">online evaluation</span> tool for <span class=\"highlight-monetizing\">tourism</span> sector impacts",
+    "type": "monetizing, assessing",
+    "link": "https://animondial.com/natour-impact/"
+  },
+  {
+    "name": "Arbimon",
+    "description": "Arbimon is a user-friendly, cloud-enabled platform powered by AI and sound. It that offers a wide range of online tools that enable users to securely upload and store audio data, perform species-specific and soundscape analyses, and gain immediate biodiversity insights. Arbimon is the largest digital archive of soundscapes in the world, hosting >230 million recordings from 119 countries which have been used to detect and identify 3,800+ species. To date, the platform has more than 3,400 users across 118 countries to collect and analyze over 117 million 1-minute recordings.\n\nArbimon provides powerful ecoacoustic services for stakeholders to transparently access ecological and conservation insights over space and time. Our AI models automate species detections and translate acoustic data into up-to-date reports on ecological trends and conservation insights are generated, facilitating data-driven discoveries and guiding nature-based solutions at various levels.",
+    "phrase": "acoustic analysis for automatic species detection",
+    "highlighted_phrase": "<span class=\"highlight-assessing\">acoustic</span> analysis for automatic <span class=\"highlight-assessing\">species detection</span>",
+    "type": "assessing",
+    "link": "https://arbimon.org/"
+  },
+  {
+    "name": "Beef on track",
+    "description": "Platform collating systems, tools, data and technical information to support organisations in creating a deforestation- free beef chain in the Amazon.",
+    "phrase": "increased transparency on impacts of the Amazonian beef production chain",
+    "highlighted_phrase": "increased transparency on impacts of the <span class=\"highlight-assessing\">Amazonian beef production</span> chain",
+    "type": "assessing",
+    "link": "https://www.beefontrack.org/"
+  },
+  {
+    "name": "Coastal Risk Index",
+    "description": "The Coastal Risk Index (CRI) is a ground-breaking, open-source modelling tool that harnesses the power of data to enable investors, insurers, and policymakers to assess better and understand coastal risk.  It encompasses hydrodynamic models to map flood risk at a 90-metre resolution in current climate conditions and potential scenarios in 2030 and 2050, including the anticipated impacts on communities and coastal assets. Most importantly, it models flooding with and without protecting coastal ecosystems, which helps quantify the value of habitats like reefs and mangroves in protecting communities. It also assesses the impact of flood risk on social and economic vulnerability and how nature-based solutions can be leveraged to build resilience for the most vulnerable.",
+    "phrase": "coastal risk and resilience assessments",
+    "highlighted_phrase": "<span class=\"highlight-cataloging\">coastal risk</span> and <span class=\"highlight-cataloging\">resilience</span> assessments",
+    "type": "cataloging",
+    "link": "https://coastalriskindex.com/"
+  },
+  {
+    "name": "Dunya Analytics",
+    "description": "Dunya Analytics offers a digital platform that makes it easy for companies to measure nature-related financial risks in line with the TNFD framework. Based on the best available science and built for ESG and risk managers, the platform uses basic operational data provided by firms to assess their impacts and dependencies on nature, including biodiversity, ecosystem use, water use, and pollution, and provides risk results in actionable financial terms. Moreover, the platform identifies opportunities to reduce risk and capture market opportunities in the transition to a sustainable economy.",
+    "phrase": "automated risk analysis for businesses in proximity to nature",
+    "highlighted_phrase": "automated risk analysis for businesses in <span class=\"highlight-assessing\">proximity to nature</span>",
+    "type": "assessing",
+    "link": "https://dunya-analytics.com/"
+  },
+  {
+    "name": "Earth Blox",
+    "description": "Earth Blox is a geospatial platform that helps businesses confidently assess and report nature-related risks and opportunities in line with the TNFD framework. It enables fast, accurate LEAP assessments using authoritative nature data from sources like IBAT, UNEP, and Resolve Ecoregions.\n\nUsers can build or customise geospatial analyses through an intuitive drag-and-drop block system — no coding or GIS expertise is required. This modular approach makes it easy to assess nature-related risks, track land-use change, or monitor biodiversity across any asset or supply chain.\n\nA library of ready-made workflows aligned with TNFD, EUDR, and CSRD delivers rapid, standards-compliant outputs that support disclosure and decision-making.\n\nPowered by a secure, cloud-based infrastructure, Earth Blox handles the scale and complexity of geospatial data processing. Visualisation tools, audit logs, and export via download or API integrate seamlessly into business processes, turning climate and nature data into actionable intelligence for sustainability, risk, and compliance.",
+    "phrase": "easy access to geospatial data",
+    "highlighted_phrase": "<span class=\"highlight-assessing\">easy</span> access to <span class=\"highlight-measuring\">geospatial</span> data",
+    "type": "measuring, assessing",
+    "link": "https://www.earthblox.io/"
+  },
+  {
+    "name": "Galago",
+    "description": "Galago, a division of Ramboll, is at the forefront of providing advanced geospatial intelligence for sustainable land management and biodiversity restoration. Our service specializes in site-specific data capture and comprehensive environmental assessments, including those along linear infrastructures. With a focus on integrating multiple data sources, Galago offers robust, AI-powered habitat classification and risk analysis capabilities. Our technology excels in creating dynamic dashboards and visualizers to store and present custom data, facilitating easy interpretation and decision-making. We also provide access to expert consultants in relevant domains, including business and ecology, ensuring our clients receive tailored, insightful guidance. Galago’s solutions are designed to assist organizations in monitoring and achieving biodiversity net gains, ecosystem integrity, and effectively managing environmental risks associated with erosion, invasive species, and human impact. As a leader in AI-driven environmental analysis, Galago is a key resource for entities aiming to meet the standards of TNFD’s nature-related financial disclosures.",
+    "phrase": "satellite and drone imagery combined with machine learning",
+    "highlighted_phrase": "satellite and drone imagery combined with <span class=\"highlight-assessing\">machine learning</span>",
+    "type": "assessing",
+    "link": "https://www.ramboll.com/galago"
+  },
+  {
+    "name": "IBAT: The Integrated\nBiodiversity\nAssessment\nTool",
+    "description": "Geospatial data to identify where operations/supplier/investment locations sit in areas important for biodiversity including Key Biodiversity Areas, protected areas and areas containing threatened species.",
+    "phrase": "access to data on key areas and endangered species",
+    "highlighted_phrase": "access to data on <span class=\"highlight-assessing\">key areas</span> and <span class=\"highlight-cataloging\">endangered species</span>",
+    "type": "cataloging, assessing",
+    "link": "https://www.ibat-alliance.org/?locale=en"
+  },
+  {
+    "name": "aiESG",
+    "description": "aiESG contributes to supply chain transparency by conducting ESG evaluations up to the upstream supply chain using AI.\nDue to limited information and the lack of a consensus-based methodology, analyzing ESG scores by tracing back the entire supply chain for all products was extremely difficult.\n\nBy simply providing aiESG with the types, costs, and countries of purchase for the materials used in your products, we can trace back to the end of the supply chain, identifying high-risk areas and positive environmental impacts.For Tier information that customers themselves are not aware of, aiESG complements the analysis using big data and AI.\n\nThis enables quantitative demonstration of social risks (such as human rights) and impacts on natural capital and biodiversity up to the end of the supply chain, which was traditionally difficult to visualize, identifying ”hotspots” where supply chain risks are high.\n\nFor detailed supply chain analysis and TNFD compliance, our consulting staff and data scientists provide support, and can even create content for TNFD reports.\naiESG FLOW is the SaaS version of aiESG analysis, allowing customers to input information and perform analysis on their own.",
+    "phrase": "ESG consulting to drive value growth",
+    "highlighted_phrase": "ESG <span class=\"highlight-assessing\">consulting</span> to drive <span class=\"highlight-monetizing\">value growth</span>",
+    "type": "assessing, monetizing",
+    "link": "https://aiesg.co.jp/en/"
+  },
+  {
+    "name": "Cecil",
+    "description": "Cecil’s data platform make nature data consistent, accessible, and ready for analysis. We help data and science teams access analysis-ready commercial and public nature datasets, eliminating the need for cleaning, harmonising, and pre-processing tasks.",
+    "phrase": "turning geospatial datasets into standardized and consistent documents",
+    "highlighted_phrase": "turning geospatial datasets into <span class=\"highlight-cataloging\">standardized</span> and <span class=\"highlight-cataloging\">consistent</span> documents",
+    "type": "cataloging",
+    "link": "https://cecil.earth/"
+  },
+  {
+    "name": "Maya",
+    "description": "Maya is an AI-powered Geospatial Copilot that automates geospatial data analysis and visualization for TNFD reporting and other nature-related disclosures. At Maya, we are revolutionising how businesses incorporate geospatial data into their decision-making process to drive value creation. By combining geospatial intelligence with AI, we aim to make geospatial data more accessible for every organisation. Maya gives access to a large number of datasets relevant to TNFD reporting, including Land Use and Land Cover (LULC), biodiversity, climate risks, and demographics. Maya makes it easy to upload thousands of individual sites and run analyses on those. Maya’s AI functionality will generate contextual reports that interpret the findings of each dataset for your site. The reports can include maps, charts, and text.\n\nMaya’s Geospatial Copilot allows you to:\n- Locate all of the sites you want to screen\n- Assess these sites with ready-to-use analysis jobs from Maya’s catalog\n- Report on your nature-related risks with custom report builder",
+    "phrase": "AI generated analysis reports",
+    "highlighted_phrase": "<span class=\"highlight-assessing\">AI</span> generated analysis reports",
+    "type": "assessing",
+    "link": "https://www.maya-climate.com/"
+  },
+  {
+    "name": "XNatura",
+    "description": "XNatura integrates artificial intelligence, IoT sensors, satellite technologies, and cloud computing to provide advanced environmental analysis and precision engineering tools. We support businesses, municipalities, and natural parks in monitoring nature, climate, water, and biodiversity.",
+    "phrase": "sensors and algorithms to comply with European standards",
+    "highlighted_phrase": "<span class=\"highlight-measuring\">sensors</span> and <span class=\"highlight-assessing\">algorithms</span> to <span class=\"highlight-monetizing\">comply</span> with European standards",
+    "type": "measuring, assessing, monetizing",
+    "link": "https://www.xnatura.com/"
+  },
+  {
+    "name": "4 Earth Intelligence",
+    "description": "The 4EI Satellite Metrics Tool Suite uses satellite imagery (open source and commercial as required) to create a baseline and then optional historic or future planned monitoring of the Earth surface for any given area.\n\nThese metrics are aligned with core global metrics and core sector specific metrics within the TNFD metric architecture for any metrics able to derived form the independent, consistent, repeatable and robust satellite imagery and associates workflow methodologies.\n\nThis tool is a baselining, monitoring, reporting and validation system (MRV).",
+    "phrase": "satellite-sensing technology for sustainable decision making",
+    "highlighted_phrase": "<span class=\"highlight-assessing\">satellite-sensing</span> technology for sustainable decision making",
+    "type": "assessing",
+    "link": "https://www.4earthintelligence.com/"
+  },
+  {
+    "name": "ABC-Map",
+    "description": "ABC-Map, the Adaptation, Biodiversity and Carbon Mapping Tool, is a geospatial tool that supports project designers, and policy makers to assess the impact of policies, plans and investments in the agriculture, forestry, and other land use (AFOLU) sector. ABC-Map answers the need for a holistic view of environmental impacts, providing a tool that is open source and easy to use, with limited input data needed.\n\nABC-Map is designed to support project teams and policy makers at the ideation and design phase through:\n1. Showing past trends in land use, climate, biodiversity and carbon.\n2. Identifying potential risks and contributing to safeguarding actions.\n3. Assessing potential impacts of planned actions on biodiversity and carbon.\n4. Identifying possible synergies and trade-offs between adaptation, mitigation and biodiversity actions.",
+    "phrase": "identify impacts of policies and investments",
+    "highlighted_phrase": "identify impacts of <span class=\"highlight-assessing\">policies</span> and <span class=\"highlight-assessing\">investments</span>",
+    "type": "assessing",
+    "link": "https://abc-map.fao.org/"
+  },
+  {
+    "name": "Quantis",
+    "description": "A methodology to measure GHG emissions from land, forests, and soils across the supply chain to be embedded in corporate and product footprints, which can be used for science-based climate target setting efforts. Includes detailed information on the scope of the proposed methodology, technical instructions, context, challenges and limitations.",
+    "phrase": "measuring emissions across supply chains",
+    "highlighted_phrase": "measuring emissions across <span class=\"highlight-assessing\">supply chains</span>",
+    "type": "assessing",
+    "link": "https://quantis.com/about/about-quantis/"
+  },
+  {
+    "name": "Verdant",
+    "description": "Introducing All.Verdant, a toolbox in the realm of sustainable asset management. This innovative platform has been meticulously designed to assist in navigating the complexities of biodiversity meassuring and framework allignment, with a strong focus on environmental stewardship, strategic investment planning and real-world action.\n\nKey Features of Verdant: \n1. Advanced Satellite Imagery Analysis \n2. Proprietary Environmental Modeling \n3. AI-Enhanced Supply Chain Mapping \n4. Clustering and Ecoregion Detection \n5. Global Network of Partners",
+    "phrase": "geospatial estimations to make nature-positive investments",
+    "highlighted_phrase": "<span class=\"highlight-assessing\">geospatial</span> estimations to make nature-positive <span class=\"highlight-assessing\">investments</span>",
+    "type": "assessing",
+    "link": "https://verdant.earth/"
+  },
+  {
+    "name": "AXA Altitude",
+    "description": "AXA Altitude is a science-based platform to assess climate physical, transition and biodiversity related risks, for private equity firms and corporates. \n\nRegarding Biodiversity, Altitude can assess\n- the dependency to ecosystem service\n- the biodiversity impact score, using the global biodiversity score in MSA.Km2, developed by CDC Biodiversité\n- the location to key sensitive biodiversity areas\n- the location to threatened species with a global coverage.",
+    "phrase": "software to support sustainable investement strategies",
+    "highlighted_phrase": "software to support sustainable <span class=\"highlight-monetizing\">investement</span> strategies",
+    "type": "monetizing",
+    "link": "https://axa-altitude.com/"
+  },
+  {
+    "name": "Anemo Robotics",
+    "description": "Marine Biodiversity Monitoring for off-shore man-made structures using AI and in-situ data.\n\nAnemo Robotics transforms marine biodiversity data into simple KPIs to track in order to assess impacts and changes throughout long-term periods, as well as provide insights to measure and promote activities that enhance biodiversity.\n\nAnemo uses in-situ data, focused on visual recordings, to assess the impacts and changes on marine life at specific locations.",
+    "phrase": "underwater cameras for monitoring marine life",
+    "highlighted_phrase": "<span class=\"highlight-measuring\">underwater cameras</span> for monitoring marine life",
+    "type": "measuring",
+    "link": "https://anemorobotics.com/"
+  },
+  {
+    "name": "Aquascope",
+    "description": "Water quality and flow monitoring and forecasting.\n\nAquascope transforms how businesses and society view nature through rivers. Rivers, the veins of nature, provide a unique lens through which we can diagnose a great deal of what happens on land. We offer a real-time, comprehensive picture of what’s happening in the river, from its overall health down to its chemical components.\n\nSaaS platform with a growing range of data services:\n1. Alert – Site level data Nowcasting – Forecasting (5 days)\n2. Aqua Scenario –  Planning using actual and simulated data for impact assessment\n3. Aqua Audit – Verification and proof for auditors for transparency\n4. Aquas Climate – long Long-term Impact planning to 2050",
+    "phrase": "quantifying conservation value of projects to scale carbon credits",
+    "highlighted_phrase": "quantifying conservation value of projects to <span class=\"highlight-assessing\">scale carbon credits</span>",
+    "type": "assessing",
+    "link": "https://www.aquascope.com/"
+  },
+  {
+    "name": "B-Intact",
+    "description": "Provides a biodiversity assessment of project-level activities in the Agriculture, Forestry and Other Land Use (AFOLU) sector, taking on both a quantitative and a qualitative approach.",
+    "phrase": "quantitative and qualitative assessments for policy indicators",
+    "highlighted_phrase": "quantitative and qualitative assessments for <span class=\"highlight-assessing\">policy</span> indicators",
+    "type": "assessing",
+    "link": "https://www.fao.org/in-action/epic/ex-act-tool/suite-of-tools/b-intact/en/"
+  },
+  {
+    "name": "Carbon Rewind",
+    "description": "Carbon Rewild offers end-to-end Bioacoustic monitoring services for baselining biodiversity and long-term monitoring of landscapes.\n\nCarbon Rewild provides the tools to monitor wildlife and measure biodiversity by harnessing the sound of nature. Results are verified and presented on our easy-to-use dashboard for key biodiversity insights, helping you monitor performance of specific sites, or a portfolio of sites.",
+    "phrase": "bioacoustic monitoring to identify birds, bats, and small mammals.",
+    "highlighted_phrase": "<span class=\"highlight-measuring\">bioacoustic monitoring</span> to identify birds, bats, and small mammals.",
+    "type": "measuring",
+    "link": "https://carbonrewild.com/"
+  },
+  {
+    "name": "Biodiversity impact Assessment (BiA)",
+    "description": "It helps effectively identify whether the selected location or construction projects are encroaching on protected wildlife habitats or protected areas.",
+    "phrase": "summaries of spatial data for onstruction projects",
+    "highlighted_phrase": "summaries of <span class=\"highlight-assessing\">spatial</span> data for <span class=\"highlight-cataloging\">construction</span> projects",
+    "type": "cataloging, assessing",
+    "link": "https://bia.hinature.cn/#/"
+  },
+  {
+    "name": "Biodiversity Intactness Index",
+    "description": "The PREDICTS (Projecting Responses to Ecological Diversity in Changing Terrestrial Systems) project, led by Natural History Museum scientists, has created the most comprehensive and representative database of how biodiversity in terrestrial ecosystems worldwide is affected by human activities, particularly those related to land use change and intensification.   \n\nThe PREDICTS team in NHM’s Biodiversity Futures Lab has developed the Biodiversity Intactness Index (BII) – a cutting-edge indicator of ecosystem integrity that estimates how much of an ecosystem’s natural biodiversity still remains despite human impacts.\n\nAlthough produced by complex statistical machinery, BII is a very simple number that indicates nature’s “health,” on a scale from 100% (the naturally-present biodiversity remains intact) down to 0% (when none of the species remaining in the location were naturally found there). A simple figure that can provide transparent and evidence-based data and assessments of biodiversity.",
+    "phrase": "how much of an ecosystem's original species remains despite human impacts",
+    "highlighted_phrase": "how much of an ecosystem's <span class=\"highlight-measuring\">original species</span> remains despite <span class=\"highlight-assessing\">human impacts</span>",
+    "type": "assessing, measuring",
+    "link": "https://www.nhm.ac.uk/our-science/services/data/biodiversity-intactness-index.html"
+  },
+  {
+    "name": "Biodiversity Valuator",
+    "description": "The Biodiversity Valuator uniquely calculates a credible and justifiable financial value of individual species or richness in specific locations. As such, it facilitates the integration of biodiversity directly into the decision-making and reporting processes in a simple and understandable manner. It calculates real financial values that can be used directly in financial analysis, investment decision-making, risk and opportunity assessment, and for the determination of Biodiversity ROI. It thereby brings biodiversity closer to finance, making biodiversity more accessible to internal and external stakeholders.\n\nThe tool is currently available as a consulting service but the AI-driven SaaS option is already under development along with the Biodiversity Database, which is revolutionising biodiversity for business by bringing transparency and knowledge to the industry. It is breaking boundaries in terms of biodiversity information availability – delivering access to regional species level data.",
+    "phrase": "calculating the financial value of individual species",
+    "highlighted_phrase": "calculating the <span class=\"highlight-monetizing\">financial value</span> of individual species",
+    "type": "monetizing",
+    "link": "https://www.endangeredwild.life/"
+  },
+  {
+    "name": "Biome Viewer",
+    "description": "The BiomeViewer is a powerful tool that combines real-time wildlife observations from the public with advanced ecological modeling methods, enabling the generation of detailed species lists at smaller scales (≤1km). This service caters to the Locate phase of TNFD and has the potential to support the Evaluate and Risk and Opportunity identification (A1) phases. The BiomeViewer provides valuable information to companies operating in different sectors within Japan’s terrestrial areas.",
+    "phrase": "wildlife observations to compute habitat suitability in Japan",
+    "highlighted_phrase": "wildlife <span class=\"highlight-cataloging\">observations</span> to compute <span class=\"highlight-measuring\">habitat suitability</span> in <span class=\"highlight-assessing\">Japan</span>",
+    "type": "measuring, assessing, cataloging",
+    "link": "https://biome-viewer.com/"
+  },
+  {
+    "name": "Bioplastic Feedstock Alliance",
+    "description": "A methodology to provide guidance on how to assess risks and make more transparent decisions on a bioplastic feedstock in order to have a more positive impact on the environment, society and the economy.",
+    "phrase": "building a knowledge-base about bioplastic feedstock sourcing",
+    "highlighted_phrase": "building a knowledge-base about <span class=\"highlight-cataloging\">bioplastic feedstock</span> sourcing",
+    "type": "cataloging",
+    "link": "https://bioplasticfeedstockalliance.org/"
+  },
+  {
+    "name": "Cetus",
+    "description": "Cetus effectively detects marine mammals, coastlines, ice, snow, amongst many other variables from very high resolution satellite images. Cetus integrates human and machine judgments in one tool, allowing for huge gains in efficiency without sacrificing reliability. It allows projects to capture a much larger surface are, allowing to gain insights into migratory corridors, impacts of climate change and overall a more comprehensive approach.",
+    "phrase": "automated marine mammal detection through satellite imagery",
+    "highlighted_phrase": "automated <span class=\"highlight-assessing\">marine mammal</span> detection through satellite imagery",
+    "type": "assessing",
+    "link": "https://www.whaleseeker.com/cetus"
+  },
+  {
+    "name": "Chloris Geospatial",
+    "description": "Chloris Geospatial is a spacetech remote-sensing company measuring natural capital. We currently focus on above-ground biomass. We measure carbon stock and change, consistent in time and space and across scales. We are launching our SaaS platform at the end of September 2022 (focused on above-ground biomass). Our services focus on needs of NBS developers, investors and land sector scope 3 reductions and reporting. From 2023 onwards, we foresee to add additional natural capital layers to our products.",
+    "phrase": "remote sensing to measure above-ground biomass.",
+    "highlighted_phrase": "<span class=\"highlight-measuring\">remote sensing</span> to measure above-ground <span class=\"highlight-measuring\">biomass</span>",
+    "type": "measuring",
+    "link": "https://www.chloris.earth/"
+  },
+  {
+    "name": "Xylo Systems",
+    "description": "Xylo Systems is a biodiversity intelligence platform supporting developers in measuring, managing and reporting on their biodiversity footprint. Xylo Systems aggregates disparate biodiversity datasets to provide high quality data with confidence and accuracy. This tool services projects throughout their entire lifecycle from design, development and monitoring and makes reporting and disclosure quick and accurate.\n\nUsers can create new projects by defining site boundaries and exploring available biodiversity data via interactive mapping and analytics tools. Insights can be exported to disclose company impact and generate TNFD reports. Xylo Systems saves development companies time and resources by making disclosures easy and integrated management intuitive.",
+    "phrase": "data and AI platform for reporting and disclosures",
+    "highlighted_phrase": "data and <span class=\"highlight-measuring\">AI platform</span> for reporting and <span class=\"highlight-assessing\">disclosures</span>",
+    "type": "measuring, assessing",
+    "link": "https://www.xylo.systems/"
+  },
+  {
+    "name": "Wildlife Insights",
+    "description": "Wildlife Insights is a cloud-based platform developed to streamline the management and analysis of camera trap data. Powered by machine learning models trained to identify species in images, Wildlife Insights enables users to efficiently monitor wildlife populations, set baselines, and detect changes in populations over time. By leveraging Wildlife Insights’ tools, corporations can more effectively measure their impacts related to wildlife species.",
+    "phrase": "machine learning to identify species in camera trap data",
+    "highlighted_phrase": "machine learning to identify species in <span class=\"highlight-measuring\">camera trap</span> data",
+    "type": "measuring",
+    "link": "https://www.wildlifeinsights.org/"
+  },
+  {
+    "name": "WildMon",
+    "description": "WildMon’s mission is to deliver globally accessible technology solutions to accelerate data-driven biodiversity and ecosystem conservation. Our platforms and initiatives enable the utilization of sound, imagery, eDNA, and AI to gather comprehensive data on the presence, distribution, and behavior of biodiversity, providing a full picture of ecosystem health. \n\nThe WildMon team is a collective of wildlife scientists, ecologists, and data scientists, coming mainly from the global south. Our team has spent decades building accessible, code-free, cloud-based platforms to support the conservation community. We are creating tools specifically for the front lines of conservation. We have the ability to use, and where appropriate, combine, acoustic, camera trap, and eDNA approaches to enable comprehensive biodiversity monitoring. WildMon enables high-impact conservation projects and long-term biodiversity monitoring through direct collaborations with Indigenous and local communities, governments, companies, and nonprofits.",
+    "phrase": "combine sound, image, and DNA data for conservation strategies",
+    "highlighted_phrase": "combine <span class=\"highlight-assessing\">sound</span>, <span class=\"highlight-assessing\">image</span>, and <span class=\"highlight-assessing\">DNA</span> data for conservation strategies",
+    "type": "assessing",
+    "link": "https://wildmon.ai/"
+  },
+  {
+    "name": "Synature",
+    "description": "The Synature Smart Microphone is a practical and reliable tool for environmental monitoring and biodiversity assessment. With up to 90 days of battery autonomy, it is particularly suited for remote deployments, reducing the need for frequent maintenance. Designed to automate key processes, it allows for the collection and analysis of bioacoustic data without requiring advanced expertise in ecology or computer science.\n\nOnce installed, the microphone continuously records environmental soundscapes, enabling species detection and the calculation of bioacoustic indices. Data is transmitted in near real-time to a user-friendly platform, where it can be analyzed to gain insights into species presence and ecosystem dynamics. This approach simplifies fieldwork while providing robust data to support informed conservation and management decisions.\n\nThe Synature Smart Microphone reflects our commitment to making bioacoustic monitoring accessible, scalable, and scientifically rigorous, addressing the practical needs of conservation professionals and researchers.",
+    "phrase": "smart microphones for bioacoustic analysis",
+    "highlighted_phrase": "<span class=\"highlight-measuring\">smart microphones</span> for bioacoustic analysis",
+    "type": "measuring",
+    "link": "https://synature.ch/en/"
+  },
+  {
+    "name": "Species+",
+    "description": "Bringing you authoritative information on taxonomy, legislation, distribution and trade in MEA-listed species.",
+    "phrase": "taxonomy, legislation, and trade information on species",
+    "highlighted_phrase": "<span class=\"highlight-cataloging\">taxonomy</span>, <span class=\"highlight-cataloging\">legislation</span>, and <span class=\"highlight-cataloging\">trade</span> information on species",
+    "type": "cataloging",
+    "link": "https://www.speciesplus.net/"
+  },
+  {
+    "name": "Sherwood",
+    "description": "Sherwood is a nature-based project monitoring platform developed by Treeconomy, used by asset managers and owners to measure, track, and report on natural capital projects. Treeconomy is an award-winning earthtech company leveraging AI and remote sensing technology to assess forest projects, delivering trust and transparency through reliable and accurate data.\n\nBacked by Treeconomy’s remote sensing expertise, Sherwood provides actionable and reportable information on carbon stock estimates as well as forest insights down to the tree level. Treeconomy employs LiDAR, photogrammetry and multispectral imagery to construct and analyse carbon data over project areas.\n\nSherwood accelerates validation, verification and project development via baselining and ongoing monitoring. Assessment reports generated from Sherwood provide granular information on changes in both carbon stocks and ecosystem health, supporting asset managers with their due diligence processes via the LEAP approach, particularly with respect to the E and A phases.",
+    "phrase": "quantify carbon impact of nature restoration projects",
+    "highlighted_phrase": "quantify <span class=\"highlight-assessing\">carbon impact</span> of nature <span class=\"highlight-assessing\">restoration</span> projects",
+    "type": "assessing",
+    "link": "https://www.treeconomy.co/projects"
+  },
+  {
+    "name": "SEED Biocomplexity Index",
+    "description": "SEED is currently being pilot-tested before a v1 release in September, at which point it will be hosted open access on Restor together with many of our interactive maps (which are already included in the Tools Catalogue).\n\nTogether, Restor and SEED will make it easy for companies to: create ‘polygons’ delineating the boundaries of their operating sites; obtain the baseline biodiversity of each sites and across all sites; monitor changes in biodiversity across their sites; compare biodiversity levels in their sites relative to others in the same industry; be informed about which land management practices might improve biodiversity in their sites; and report on all of the above.",
+    "phrase": "holistic index across spatial and temporal scales",
+    "highlighted_phrase": "<span class=\"highlight-assessing\">holistic</span> index across <span class=\"highlight-assessing\">spatial and temporal</span> scales",
+    "type": "assessing",
+    "link": "https://www.seed-index.com/"
+  },
+  {
+    "name": "refinq",
+    "description": "refinq offers an advanced data and software solution that enables companies to gain a comprehensive understanding of their nature-related impacts, dependencies, risks and opportunities. Aligned with TNFD’s LEAP approach and fully compliant with industry-standard reporting regulations, refinq makes nature visible in the fabric of business processes and puts it at the heart of business decision-making.\n\nEssential Capabilities:\n- Nature Database with world-wide coverage\n- Spatial Intelligence: Map your operations and supply chain, unveiling valuable insights into your nature footprint.\n- Quantitative Nature Assessment: Precisely measure your influence on nature and your reliance on its resources, facilitating informed decision-making. Furthermore, be - informed about physical (climate) risks potentially affecting biodiversity & ecosystems.\n- Quantify Nature: Assess and quantify financial risks tied to nature-related factors.\n- Scenario Analysis\n- Mitigation recommendations\n- Target setting",
+    "phrase": "location-specific risk profiles for businesses",
+    "highlighted_phrase": "<span class=\"highlight-monetizing\">location-specific</span> <span class=\"highlight-assessing\">risk</span> profiles for businesses",
+    "type": "assessing, monetizing",
+    "link": "https://www.refinq.com/"
+  },
+  {
+    "name": "Pivotal",
+    "description": "Pivotal is a UK-based biodiversity data analytics company that offers affordable, ground-based measurements of a full set of ‘state of nature’ metrics. By combining easy-to-scale, site-level data with remote sensing, we provide the data and analysis required by our customers to evidence the state of nature and how it changes over time as negative impacts are reduced and positive opportunities realised.\n\nPivotal produces cost effective analytics by enabling digital data collection on the ground, anywhere in the world, such that the data is comparable year-on-year and change over time can be evaluated. We use a range of data types, from acoustics to imagery and eDNA, combined with machine learning models and robust quality control by experts, to produce rich datasets and key metrics of biodiversity change.\n\nWith Pivotal, you will be able to confidently disclose, evidence, and make auditable the outcomes you achieve for nature and biodiversity.",
+    "phrase": "on-the-ground data collection combined with machine learning",
+    "highlighted_phrase": "<span class=\"highlight-measuring\">on-the-ground</span> data collection combined with <span class=\"highlight-assessing\">machine learning</span>",
+    "type": "measuring, assessing",
+    "link": "https://www.pivotal.earth/"
+  },
+  {
+    "name": "Ocean Data Platform",
+    "description": "HUB Ocean’s Ocean Data Platform (ODP) is aggregating, unlocking and enabling a diverse range of ocean data, from existing open sources to ‘locked’ industry data. The ODP is designed to host data efficiently with rich metadata; facilitate access and sharing through geo-spatially performant APIs; and empower analysis with scalable cloud compute. The result is enabling the consumption of a variety of ocean data sources in a way that is standardized, powerful and ‘FAIR’ (Findable, Accessible, Interoperable, Reusable).",
+    "phrase": "ocean data from public and private sources",
+    "highlighted_phrase": "<span class=\"highlight-cataloging\">ocean</span> data from public and <span class=\"highlight-cataloging\">private sources</span>",
+    "type": "cataloging",
+    "link": "https://www.hubocean.earth/platform"
+  },
+  {
+    "name": "Ocean+",
+    "description": "Ocean+ is an initiative that brings together accurate and up-to-date data and information on ocean biodiversity to support effective decisions that protect global marine life.",
+    "phrase": "geospatial database of marine and coastal habitats",
+    "highlighted_phrase": "geospatial database of <span class=\"highlight-cataloging\">marine</span> and <span class=\"highlight-cataloging\">coastal</span> habitats",
+    "type": "cataloging",
+    "link": "https://habitats.oceanplus.org/"
+  },
+  {
+    "name": "NEC Initiative",
+    "description": "The Net Environmental Contribution is a holistic and transparent environmental metric. It is based on the impacts on climate, biodiversity and resources.\n\nIt provides a score between -100% and +100%, which assesses the level of contribution of all economic activities to the ecological transition :\n\nFrom -100% for activities that are the most destructive of natural capital\nTo +100% for activities with a strong positive net environmental impact\nThe NEC is based on ACV scientific data and certifications issued by independent third parties from more than 250 sources. Global, the NEC is applicable to any type of business and cross-assets.",
+    "phrase": "rating environmental impact of economic activities",
+    "highlighted_phrase": "rating environmental impact of <span class=\"highlight-assessing\">economic activities</span>",
+    "type": "assessing",
+    "link": "https://www.nec-initiative.com/"
+  },
+  {
+    "name": "NatureHelm",
+    "description": "NatureHelm is a location-specific biodiversity data platform that enables corporates and their entire global supply chains, as well as financial institutions and their entire portfolios, to rapidly understand, monitor and report on biodiversity to meet TNFD requirements. This includes:\n– rapid identification of site-specific biodiversity data from a diverse array of reputable sources (Locate)\n– unique insights for evaluating the most material biodiversity assets at each site, including dependencies, impacts, risks and opportunities (Evaluate)\n– identification of simple methods for establishing baseline data and monitoring the most relevant biodiversity assets on the ground, and enabling changes in biodiversity to be tracked over time (Assess)\n– automated data distribution or reporting to meet the unique TNFD requirements for each business and each site, globally.",
+    "phrase": "aggregated datasets for business impacts, risks, and dependencies",
+    "highlighted_phrase": "aggregated datasets for business <span class=\"highlight-assessing\">impacts</span>, <span class=\"highlight-assessing\">risks</span>, and <span class=\"highlight-assessing\">dependencies</span>",
+    "type": "assessing",
+    "link": "https://naturehelm.com/"
+  },
+  {
+    "name": "Möbius",
+    "description": "Möbius effectively detects marine mammals, coastlines, ice, snow, amongst many other variables from aerial images taken by aircraft and drone. Möbius is Whale Seeker’s signature human-in-the-loop aerial image analysis tool. Like its namesake, the one-sided Möbius strip that appears to have two sides, Möbius integrates human and machine judgments in one tool, allowing for huge gains in efficiency without sacrificing reliability. \n\nOur solution is 97% faster for biologists compared to manual detection, has 0% intraobserver bias and we have detected more than 180k whales and other marine mammals from aerial and satellite images.",
+    "phrase": "AI models to detect marine mammals",
+    "highlighted_phrase": "AI models to detect <span class=\"highlight-assessing\">marine mammals</span>",
+    "type": "assessing",
+    "link": "https://www.whaleseeker.com/"
+  },
+  {
+    "name": "Living Planet Index",
+    "description": "The Living Planet Index (LPI) is a measure of the state of the world’s biological diversity based on population trends of vertebrate species from terrestrial, freshwater and marine habitats.",
+    "phrase": "population trends of vertebrate species",
+    "highlighted_phrase": "<span class=\"highlight-cataloging\">population</span> trends of <span class=\"highlight-cataloging\">vertebrate species</span>",
+    "type": "cataloging",
+    "link": "https://www.livingplanetindex.org/"
+  },
+  {
+    "name": "Lemu Atlas",
+    "description": "Lemu Atlas is a nature data platform that combines satellite information, databases, artificial intelligence, and citizen science to deliver more than 30 environmental indicators. Lemu Atlas facilitates efforts for environmental prefeasibility, risk assessment, regulatory compliance, natural capital measurement, and conservation impact measurement.",
+    "phrase": "data platform combining sattelite imagery, AI, and citizen science",
+    "highlighted_phrase": "data platform combining sattelite imagery, AI, and <span class=\"highlight-assessing\">citizen science</span>",
+    "type": "assessing",
+    "link": "https://le.mu/"
+  },
+  {
+    "name": "Land Portal Geoportal",
+    "description": "Geospatial data layers on forest tenure, land and corruption, forest landscape restoration and indigenous and community land rights.",
+    "phrase": "geospatial data on forests, restoration, and indigenous land rights",
+    "highlighted_phrase": "geospatial data on forests, restoration, and <span class=\"highlight-cataloging\">indigenous land rights</span>",
+    "type": "cataloging",
+    "link": "https://geoportal.landportal.org/"
+  },
+  {
+    "name": "IUCN RedList of Ecosystems",
+    "description": "A tool that facilitates ecosystem assessments by providing an ecosystem description, diagnosis, status report, and assessment data.",
+    "phrase": "assessments on ecosystem health",
+    "highlighted_phrase": "assessments on <span class=\"highlight-cataloging\">ecosystem health</span>",
+    "type": "cataloging",
+    "link": "https://iucnrle.org/"
+  },
+  {
+    "name": "IRIS+",
+    "description": "IRIS is a catalogue of generally accepted metrics that measure social, environmental and financial performance in an effort to support transparency, credibility, and accountability in impact measurement practices. IRIS serves as the taxonomy, or set of terms with standardized definitions, that governs the way companies, investors, and others define their social and environmental performance.",
+    "phrase": "framework for organizing impact goals",
+    "highlighted_phrase": "<span class=\"highlight-cataloging\">framework</span> for <span class=\"highlight-cataloging\">organizing</span> impact goals",
+    "type": "cataloging",
+    "link": "https://iris.thegiin.org/"
+  },
+  {
+    "name": "Good Practice Guidance for Mining and Biodiversity",
+    "description": "The Good Practice Guidance For Mining and Biodiversity has been created for mining professionals to improve biodiversity management throughout the mining cycle/value chain and understand the connections between their activities, and biodiversity.",
+    "phrase": "guidance for biodiversity management in mining",
+    "highlighted_phrase": "<span class=\"highlight-cataloging\">guidance</span> for biodiversity management in <span class=\"highlight-cataloging\">mining</span>",
+    "type": "cataloging",
+    "link": "https://www.cbd.int/development/doc/Minining-and-Biodiversity.pdf"
+  }
+]
